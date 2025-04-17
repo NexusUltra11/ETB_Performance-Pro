@@ -39,7 +39,7 @@ C:\Program Files (x86)\Steam\steamapps\common\EscapeTheBackrooms
 - Replace or merge any files when prompted.
 
 ### 3. Launch the Game
-- Start *Escape the Backrooms* normally via Steam.
+- Start *ETB_PM* Out of The PerformanceMod folder to Launch the Game with The Performance Mode injected.
 - Performance settings will be active immediately.
 
 ---
