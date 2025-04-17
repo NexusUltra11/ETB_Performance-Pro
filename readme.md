@@ -70,13 +70,13 @@ A: Just delete the modded config files and restore your backup.
 
 - This mod is unofficial and not affiliated with the developers of *Escape the Backrooms*.
 - Best results seen on machines with integrated GPUs or low VRAM.
-- Tested with game version `vX.XX` (update as needed).
+- Tested with game version `01.23` (update as needed).
 
 ---
 
 ## ❤️ Credits
 
-Created by [YourName]  
+Created by Vatos & NexusUltra11 
 Inspired by the amazing *Escape the Backrooms* community.
 
 ---
