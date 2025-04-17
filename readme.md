@@ -1,3 +1,6 @@
+
+#THE MOD IS IN ITS EARLY STAGES SO UPDATES HAPPEN VERY OFTEN MAKE SURE TO UPDATE ALWAYS!
+
 # 🏃 Escape the Backrooms - Performance Mod & Tweaks
 
 A lightweight performance enhancement mod for *Escape the Backrooms*, focused on improving framerates, reducing stutter, and offering useful graphical tweaks for smoother and more stable gameplay—especially on lower-end systems.
