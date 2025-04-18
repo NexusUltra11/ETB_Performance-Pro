@@ -39,6 +39,9 @@ A lightweight performance enhancement mod for *Escape the Backrooms*, focused on
 - ✅ **100% Multiplayer Compatible**  
   This mod does **not** alter core gameplay or break online sync.
 
+
+⚠️ **IMPORTANT**: For maximum performance boost during multiplayer, **every player must install the mod**. 
+    If only one player uses it, you might still see performance limitations due to how assets and levels are synced across players.
 ---
 
 ## 📦 Installation
