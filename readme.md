@@ -95,7 +95,7 @@ A: Just delete the modded config files and restore your backup.
 
 - This mod is unofficial and not affiliated with the developers of *Escape the Backrooms*.
 - Best results seen on machines with integrated GPUs or low VRAM.
-- This mod may operate poorly on systems with systems that utilize a bootloader.
+- This mod may operate poorly on systems that utilize a bootloader.
 - Tested with game version 01.23 (update as needed).
 
 ---
